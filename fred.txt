@@ -1,0 +1,3 @@
+fred.txt
+
+This is the first file to be created on my test repo.
