@@ -1,3 +1,4 @@
 fred.txt
 
 This is the first file to be created on my test repo.
+This is the second edit.
